@@ -1,0 +1,5 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Test2\Test2\bin\Debug\Test2.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Test2\Test2\bin\Debug\Test2.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Test2\Test2\bin\Debug\Test2.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Test2\Test2\obj\Debug\Test2.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Test2\Test2\obj\Debug\Test2.pdb
